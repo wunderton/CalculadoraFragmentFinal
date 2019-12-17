@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="btn_corner_radius">4dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

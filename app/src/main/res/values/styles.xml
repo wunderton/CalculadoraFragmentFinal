@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Light Mode application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundColor">#fcfcfc</item>
+        <item name="toolbarColor">@color/colorPrimary</item>
+        <item name="textColor">#303030</item>
+        <item name="buttonColor">#303030</item>
+        <item name="buttonBackgroundColor">#fcfcfc</item>
+    </style>
+
+    <!-- Dark Mode application theme. -->
+    <style name="darkTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary1</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="backgroundColor">#303030</item>
+        <item name="toolbarColor">#454545</item>
+        <item name="textColor">#fcfcfc</item>
+        <item name="buttonColor">#fcfcfc</item>
+        <item name="buttonBackgroundColor">#303030</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ButtonBorder" parent="Widget.AppCompat.Button.Colored" />
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+</resources>

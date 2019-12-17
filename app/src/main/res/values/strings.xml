@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">CalculatorME</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menu_calculator">Calculator</string>
+    <string name="menu_converter">Converter</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_help">Help</string>
+
+    <string name="menu_cal_standard">Standard</string>
+    <string name="menu_cal_advanced">Advanced</string>
+    <string name="menu_cal_date">Date Calculator</string>
+    <string name="menu_cal_health">Health Calculator</string>
+
+    <string name="menu_cv_currency">Currency</string>
+    <string name="menu_cv_speed">Speed</string>
+    <string name="menu_cv_data">Data</string>
+    <string name="menu_cv_length">Length</string>
+    <string name="menu_cv_weight">Weight</string>
+    <string name="menu_cv_volume">Volume</string>
+    <string name="menu_cv_time">Time</string>
+    <string name="menu_cv_temp">Temperature</string>
+    <string name="menu_cv_area">Area</string>
+    <string name="label_start">Start Date</string>
+    <string name="label_end">End Date</string>
+
+    <string name="calculator_num0">0</string>
+    <string name="calculator_num1">1</string>
+    <string name="calculator_num2">2</string>
+    <string name="calculator_num3">3</string>
+    <string name="calculator_num4">4</string>
+    <string name="calculator_num5">5</string>
+    <string name="calculator_num6">6</string>
+    <string name="calculator_num7">7</string>
+    <string name="calculator_num8">8</string>
+    <string name="calculator_num9">9</string>
+    <string name="calculator_plus">+</string>
+    <string name="calculator_minus">-</string>
+    <string name="calculator_multiply">×</string>
+    <string name="calculator_divide">÷</string>
+    <string name="calculator_equal">=</string>
+    <string name="calculator_backspace">Del</string>
+    <string name="calculator_clear">C</string>
+    <string name="calculator_percent">%</string>
+    <string name="calculator_dot">.</string>
+    <string name="calculator_reverse">+/-</string>
+    <string name="calculator_reset">CL</string>
+    <string name="calculator_bracketOpen">(</string>
+    <string name="calculator_bracketClose">)</string>
+    <string name="calculator_Sin">sin</string>
+    <string name="calculator_Cos">cos</string>
+    <string name="calculator_Tan">tan</string>
+    <string name="calculator_Mod">mod</string>
+    <string name="calculator_Pow">^</string>
+    <string name="calculator_Root">√</string>
+    <string name="calculator_Pi">π</string>
+    <string name="calculator_Factorial">n!</string>
+
+    <string name="converter_fromLabel">From</string>
+    <string name="converter_toLabel">To</string>
+    <string name="converter_selectedFrom">Amount</string>
+    <string name="converter_selectedTo">Result</string>
+    <string name="converter_convertBtn">Convert</string>
+    <string name="converter_copyBtn">Copy Result</string>
+    <string name="convert_resetBtn">Reset</string>
+    <string name="convert_calculatorBtn">Calculator</string>
+    <string name="converter_hintFrom">Type value here…</string>
+    <string name="converter_hintTo">Result goes here…</string>
+
+    <string name="prefs_title_setting">Visual Setting</string>
+    <string name="title_theme">Change theme</string>
+    <string name="title_about">About us</string>
+    <string name="title_help">Help</string>
+    <string name="title_theme_light">Light Theme</string>
+    <string name="title_theme_dark">Dark Theme</string>
+    <string name="prefs_title_language">Languages</string>
+    <string name="title_activity_setting">activity_setting</string>prefs_title_dark_theme
+
+    <string name="lang_en">English</string>
+    <string name="lang_vn">Tiếng Việt</string>
+    <string name="about_intro">This calculator allows you to easily handle all the calculations necessary for everyday life with a single application.</string>
+    <string name="about_sub1">1. Standard and Advance Calculator: </string>
+    <string name="about_sub2">2. Unit Converter: </string>
+    <string name="about_sub3">3. Currency Converter: </string>
+    <string name="about_sub4">4. Health Calculator: </string>
+    <string name="about_content1">• Supports four basic arithmetic operations, squares, parentheses of expressions, and simple and complex scientific operations.</string>
+    <string name="about_content2">• Support converting length, weight, width, mass, time, temperature, speed, data, time.</string>
+    <string name="about_content3">• Support over 10 currencies in the world, including dollar, Euro, Yen, Chinese Yuan, etc.</string>
+    <string name="about_content4">• You can calculate body mass index (BMI) and get the number of calories you need for a day.</string>
+    <string name="about_content5">.</string>
+</resources>
